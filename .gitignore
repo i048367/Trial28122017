@@ -9,4 +9,10 @@ visual_ext_index.html
 fioriHtmlRunner.html
 .*/fioriHtmlRunner.html
 mock_preview_sapui5.html
+<<<<<<< HEAD
 .*/mock_preview_sapui5.html
+=======
+.*/mock_preview_sapui5.html
+preview.json
+cp.project.properties.json
+>>>>>>> branch 'master' of https://github.com/i048367/Trial28122017.git

@@ -9,9 +9,15 @@ sap.ui.define([
 			sUrlParameters = sUrlParameters ? "?" + sUrlParameters : "";
 
 			if (sHash) {
+<<<<<<< HEAD
 				sHash = "#Factory29122016-display&/" + (sHash.indexOf("/") === 0 ? sHash.substring(1) : sHash);
 			} else {
 				sHash = "#Factory29122016-display";
+=======
+				sHash = "#Trial2812-display&/" + (sHash.indexOf("/") === 0 ? sHash.substring(1) : sHash);
+			} else {
+				sHash = "#Trial2812-display";
+>>>>>>> branch 'master' of https://github.com/i048367/Trial28122017.git
 			}
 
 			return sUrl + sUrlParameters + sHash;

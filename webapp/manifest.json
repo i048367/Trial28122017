@@ -145,7 +145,11 @@
 		}
 	},
 	"sap.platform.abap": {
+<<<<<<< HEAD
 		"uri": "/sap/bc/ui5_ui5/sap/zfactor/webapp",
+=======
+		"uri": "/sap/bc/ui5_ui5/sap/ztrial2812/webapp",
+>>>>>>> branch 'master' of https://github.com/i048367/Trial28122017.git
 		"_version": "1.1.0"
 	}
 }
